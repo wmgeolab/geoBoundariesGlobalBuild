@@ -1,0 +1,1 @@
+http://geonode.state.gov/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3AGlobal_LSIB_Polygons_Detailed&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature
